@@ -1,0 +1,1 @@
+# plugins-sanitize-spanish-filenames
