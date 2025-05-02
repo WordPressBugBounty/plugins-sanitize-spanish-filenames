@@ -3,7 +3,7 @@ Contributors: samuelaguilera
 Tags: utf-8, international characters, filename, sanitize, upload, hebrew, cyrillic
 Requires at least: 4.9
 Requires PHP: 5.6
-Tested up to: 6.4.2
+Tested up to: 6.7.2
 Stable tag: 1.2.4
 License: GPL2
 
